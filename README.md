@@ -5,5 +5,6 @@
 ## Descrição do Projeto
 <p align="center">Projeto criado pela tuma de Técnico em Informática na instituição do SENAC em Três Corações MG</p>
 
+<h1 align="center">
 <img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
-<img src="http://www.w3.org/2000/svg"/>
+</h1>
