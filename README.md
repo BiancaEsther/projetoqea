@@ -103,7 +103,7 @@ Feito com ❤️ por Bianca Esther. Entre em contato!
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença MIT.
+Este projeto esta sob a licença MIT.
 
 Feito com ❤️ por Binca Esther!
 
