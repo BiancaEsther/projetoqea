@@ -3,4 +3,6 @@
 </h1>
 
 ## Descrição do Projeto
-<p align="center">Projeto criado pela tuma de Técnico em Informática na instituição do SENAC</p>
+<p align="center">Projeto criado pela tuma de Técnico em Informática na instituição do SENAC em Três Corações MG</p>
+
+<img src"https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>" />
