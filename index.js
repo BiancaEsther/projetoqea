@@ -4,6 +4,7 @@ const bodyparser = require("body-parser")
 const connection = require("./database/database") // modulo de conexão com o banco de dados
 const Pergunta = require('./database/Pergunta')
 const Resposta = require('./database/Resposta')
+require("dotenv").config()
 
 //Conexão com o banco de dados
 connection
@@ -89,6 +90,6 @@ app.post('/resposta', (req, res) => {
     })
 })
 
-app.listen(3333, () =>{
+app.listen(process.env.PORT, () =>{
     console.log("Servidor rodando")
 })
